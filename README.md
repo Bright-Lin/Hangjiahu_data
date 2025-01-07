@@ -1,4 +1,4 @@
-# 简体中文：
+# 说明(简体中文)：
 
 这是一个供参考的shapefile文件，您可以下载并加载使用。
 完整的Demo，请参考：https://hangjiahu.pages.dev/
@@ -8,7 +8,7 @@
 
 
 
-# English Version:
+# Readme(English Version):
 
 This is a shapefile file for reference, you can download and load it for use.
 Please refer to the complete demo: https://hangjiahu.pages.dev/
